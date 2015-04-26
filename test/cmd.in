@@ -1,0 +1,15 @@
+p
+k a
+d 100
+p
+k b
+d 200
+p
+k c
+d 300
+g
+k a
+g
+k c
+g
+k z
